@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "BOwl-Rb",
+      "name": "Adam",
+      "age": 20,
+      "city": "London"
+    },
+    {
+      "name": "Hans",
+      "age": 40,
+      "city": "Stutgart",
+      "id": "p0Ay_mE"
+    }
+  ]
+}
